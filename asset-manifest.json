@@ -1,12 +1,19 @@
 {
   "files": {
-    "main.js": "/static/js/main.d2b43575.js",
-    "static/media/white-curved.jpeg": "/static/media/white-curved.a5b7db662b0b14ab5534.jpeg",
-    "static/media/waxdata.xlsx": "/static/media/waxdata.c7216f1010cabd0cd258.xlsx",
-    "static/media/anchordata.xlsx": "/static/media/anchordata.953e6c43a89f53733b5e.xlsx",
-    "index.html": "/index.html"
+    "main.css": "/static/css/main.38f8070d.chunk.css",
+    "main.js": "/static/js/main.54e0afa2.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.06a711e7.js",
+    "static/css/2.d735fd0b.chunk.css": "/static/css/2.d735fd0b.chunk.css",
+    "static/js/2.002b6f93.chunk.js": "/static/js/2.002b6f93.chunk.js",
+    "index.html": "/index.html",
+    "static/js/2.002b6f93.chunk.js.LICENSE.txt": "/static/js/2.002b6f93.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/static/media/fa-solid-900.efbd5d20.eot"
   },
   "entrypoints": [
-    "static/js/main.d2b43575.js"
+    "static/js/runtime-main.06a711e7.js",
+    "static/css/2.d735fd0b.chunk.css",
+    "static/js/2.002b6f93.chunk.js",
+    "static/css/main.38f8070d.chunk.css",
+    "static/js/main.54e0afa2.chunk.js"
   ]
 }
